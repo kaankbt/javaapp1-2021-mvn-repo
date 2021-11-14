@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/javaapp1-2021-mvn-repo.iml" filepath="$PROJECT_DIR$/.idea/javaapp1-2021-mvn-repo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org/csystem/org-csystem-util/10.1.0/org-csystem-util.iml" filepath="$PROJECT_DIR$/org/csystem/org-csystem-util/10.1.0/org-csystem-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org/csystem/org-csystem-util/10.2.0/org-csystem-util (1).iml" filepath="$PROJECT_DIR$/org/csystem/org-csystem-util/10.2.0/org-csystem-util (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/org/csystem/org-csystem-util-console/10.0.0/org-csystem-util-console.iml" filepath="$PROJECT_DIR$/org/csystem/org-csystem-util-console/10.0.0/org-csystem-util-console.iml" />
+    </modules>
+  </component>
+</project>
